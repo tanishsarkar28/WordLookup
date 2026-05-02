@@ -47,4 +47,15 @@ If you want to control the background behavior of the app:
 
 👉 **[Download Latest Version](https://github.com/tanishsarkar28/WordLookup/releases/latest)**
 
+## 📸 Screenshots
+
+### Popup Window
+![Popup](assets/screenshots/popup.png)
+
+### System Tray
+![Tray](assets/screenshots/tray.png)
+
+### Settings Panel
+![Settings](assets/screenshots/settings.png)
+
 Enjoy your new superpower!
