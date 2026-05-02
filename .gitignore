@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Application Data
+*.log
+config.json
+
+# If you prefer not to track the large dictionary file, uncomment this line:
+# dictionary_compact.json

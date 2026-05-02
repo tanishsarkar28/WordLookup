@@ -8,10 +8,10 @@ Because this application uses Optical Character Recognition (OCR) to read the wo
 
 ### Step 1: Extract WordLookup
 1. Extract the WordLookup folder you received to anywhere on your computer (like your Documents or Desktop).
-2. Inside, open the `dist` folder, then open the `QuickDefine` folder.
-3. Double-click **`QuickDefine.exe`** to run it. 
+2. Inside, open the `dist` folder, then open the `WordLookup` folder.
+3. Double-click **`WordLookup.exe`** to run it. 
 
-*(Tip: You can right-click `QuickDefine.exe` and select "Create Shortcut", then drag that shortcut to your desktop for easy access. To have it start automatically on boot, just right-click its icon in the system tray and check "Run on Startup"!)*
+*(Tip: You can right-click `WordLookup.exe` and select "Create Shortcut", then drag that shortcut to your desktop for easy access. To have it start automatically on boot, just right-click its custom icon in the system tray and check "Run on Startup"!)*
 
 ---
 
@@ -26,6 +26,9 @@ Whenever you are reading an article on Chrome, viewing a PDF, or reading code in
 3. If you move your mouse into the popup, it stays open so you can read it comfortably.
 4. Click the **Speaker icon** (🔊) to hear the word pronounced out loud!
 5. As soon as you move your mouse away from the popup, it gracefully fades away.
+
+### 🌐 Offline Mode
+WordLookup comes packed with a bundled 100,000+ word dictionary. If you are ever disconnected from the internet, the app will instantly fall back to its internal dictionary database so you can still read the definitions!
 
 ### To Pause, Start on Boot, or Exit
 If you want to control the background behavior of the app:

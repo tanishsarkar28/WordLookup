@@ -1,0 +1,7 @@
+PyQt5
+pynput
+pytesseract
+Pillow
+requests
+pyttsx3
+keyboard
