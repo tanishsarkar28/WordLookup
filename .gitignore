@@ -1,16 +1,29 @@
-# Byte-compiled / optimized / DLL files
+# Python cache
 __pycache__/
 *.py[cod]
-*$py.class
 
-# PyInstaller
+# Virtual environments
+venv/
+.env/
+
+# Build files
 build/
 dist/
+
+# PyInstaller
 *.spec
 
-# Application Data
+# Logs
 *.log
-config.json
 
-# If you prefer not to track the large dictionary file, uncomment this line:
-# dictionary_compact.json
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
