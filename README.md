@@ -37,4 +37,14 @@ If you want to control the background behavior of the app:
 - Click **"Disable Lookup"** if you are playing a game and want to temporarily pause the double-click behavior. You can turn it back on by clicking **"Enable Lookup"**.
 - Click **"Exit"** to close the program entirely.
 
+  # WordLookup
+
+![Windows](https://img.shields.io/badge/Platform-Windows-blue)
+![Python](https://img.shields.io/badge/Python-3.10+-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+## 🚀 Download
+
+👉 **[Download Latest Version](https://github.com/tanishsarkar28/WordLookup/releases/latest)**
+
 Enjoy your new superpower!
